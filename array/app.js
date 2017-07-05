@@ -11,9 +11,20 @@ var array = ['Pomme','Cerise','Tomate','Citron', ['Orange','Poivron']];
 
 	array.push("Courgette");
 	console.log(array);
+	console.log(array[4]);
+
+	array[4].push("Citron");
+	console.log(array);
+	console.log(array[4]);
 
 	
 
-	delete array[1];
-	console.log(array);
+	
+
+	
+
+	
+
+
+	
 
