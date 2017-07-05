@@ -2,3 +2,4 @@ var mois = ["janvier", "février", "mars", "avril", "mai", "juin" "juillet", "ao
 
 	console.log (mois [2]);
 	console.log (mois [5]);
+	console.log (mois [10]);
